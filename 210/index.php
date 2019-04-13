@@ -2,8 +2,9 @@
 <?php
 	echo "Bismillah";
 ?>
-</title></head>
+$mula="Dengan Nama Allah Yang Maha.."; define("AUTHOR", "Shahadan Bin Saad");
 <body>
-	<h1>Dengan nama Allah yang Maha Mulia</h1>
+<h1><?=$mula?></h1> Quadrillion Terima Kasih
+<div align="right">ikhlas dari <?=AUTHOR?></div>
 </body>
 </html>
